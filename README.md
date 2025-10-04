@@ -37,6 +37,3 @@ In cadrul proiectului menționat mai sus, suplimentar, se prezintă și următoa
 •	Test Asyncron - Response 200.
 
 •	Test Asyncron - Response 404
-
-
-
