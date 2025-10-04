@@ -143,6 +143,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+4.despre_noi.env
+5_test_login_si_logout.env
+7.comanda.env
+8.comanda_2.env
+
 
 # Spyder project settings
 .spyderproject
